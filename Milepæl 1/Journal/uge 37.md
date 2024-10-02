@@ -6,7 +6,7 @@
 
 * Hvad er jeg blevet nysgerrig på?
 
-* Hvad har været udfordrende?
+ * Hvad har været udfordrende?
 
 * Hvordan finder jeg informationer? Kan denne taktik forbedres?
 
