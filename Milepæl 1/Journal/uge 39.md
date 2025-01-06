@@ -21,8 +21,7 @@ jeg finder informationer ved at bruge hjælpemidler som f.eks. google, bøgerne,
 ## Opgavenoter - rover
 
 * Hvordan anvender jeg det lærte til at løse opgaven?
-
-afventer svar
+jeg bruger det til at bygge og videre udvikle på vores projekt. 
 
 * Hvordan undersøger jeg muligheder til videre løsning?
 

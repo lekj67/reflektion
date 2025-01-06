@@ -1,8 +1,7 @@
 ## Emne:
 
 * Hvad lærte jeg om ugens emne?
-
-ingen netværk denne uge. 
+ingen undervisning denne uge, ren studietid brugt på roveren. 
 
 * Hvad bør jeg undersøge nærmere eller få svar på?
 

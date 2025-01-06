@@ -1,9 +1,7 @@
 ## Emne:
 
 * Hvad lærte jeg om ugens emne?
-
-ingen netværk denne uge. 
-
+denne uge er hovedsageligt blevet brugt på at forbedre ting vi allerede har. 
 * Hvad bør jeg undersøge nærmere eller få svar på?
 
 * Hvad er jeg blevet nysgerrig på?
