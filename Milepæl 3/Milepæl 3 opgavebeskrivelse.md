@@ -40,7 +40,7 @@ sender koden er opbygget i noget af samme dur udover at her har vi skrevet alle 
 vi har også her en sendata funktion som der er hentet fra ovennævnte bibliotek og egentlig har ansvaret for at sende dataen, funktionen fortæller os både hvis det lykkes at sende data men også hvis det fejler. Til sidst bruger vi igen en funktion til at lave et callback efter dataen er sent sådan at den bliver ved med at sende, altså den smider koden tilbage til send funktionen sådan at den sender igen.
 
 ### Libraries 
-<!-- vi bruger librariet "esp-NOW" til de fleste af funktionerne vi skal bruge til at sende og modtage med, biblioteket "wifi.h" bruger vi kun til at sætte wi-fi mode op, som gør det muligt at sende frem og tilbage.  -->
+-- vi bruger librariet "esp-NOW" til de fleste af funktionerne vi skal bruge til at sende og modtage med, biblioteket "wifi.h" bruger vi kun til at sætte wi-fi mode op, som gør det muligt at sende frem og tilbage.  
 #include <ESP-NOW.h> bruger vi til at opsætte den struct vi sender frem og tilbage og til de funktioner der er krævet for at sende det derhen og modtage det.
 
 include <wifi.h> bruger vi til at opsætte en standard for hvordan wifi'et skal være sat op. 
